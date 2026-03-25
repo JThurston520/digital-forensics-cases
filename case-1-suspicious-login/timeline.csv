@@ -1,1 +1,5 @@
-
+Time,Event ID,User,Result,Logon Type,Notes
+9:13:30 AM,4625,hacker123,Failure,2,Multiple failed attempts
+10:00:10 AM,4624,hacker123,Success,2,Suspicious login
+10:01:53 AM,4624,Win10-Victim,Success,2,Admin login
+10:01:53 AM,4672,Win10-Victim,Privileged,2,Elevated Privileges
